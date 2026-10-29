@@ -1,0 +1,4 @@
+mlflow.db
+mlartifacts/
+__pycache__/
+*.zip

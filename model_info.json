@@ -1,0 +1,7 @@
+{
+    "model_version": 2,
+    "num_features": 102,
+    "exported_at": "2026-10-26 09:47:13",
+    "v1_validation_rmse": 15.8362,
+    "holdout_rmse_batch2": 15.48
+}
